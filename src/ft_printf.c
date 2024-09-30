@@ -10,7 +10,7 @@
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+#include "../inc/ft_printf.h"
 
 static int	ft_formats(va_list element, char const format)
 {
@@ -62,7 +62,7 @@ int	ft_printf(char const *str, ...)
 /*
 int	main(void)
 {
-	printf("%s\n", "hola que tal");
-	ft_printf("%s", "hola que tal");
+	printf("%s\n", "");
+	ft_printf("%s", "");
 }
 */
