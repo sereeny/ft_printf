@@ -1,5 +1,5 @@
 <body>
-    <h1>ft_printf</h1>
+    <h1>ft_printf - Because ft_putnbr() and ft_putstr() aren’t enough</h1>
     <p>
         <strong>Libftprintf</strong> is a custom implementation of the standard C library function <code>printf</code>. 
         This project allows you to format and output data to the standard output, supporting various data types and format specifiers. 
